@@ -1,3 +1,9 @@
+---
+title: Instructions
+---
+
+## Getting iA presentations onto GitHub
+
 1. Go to GitHub Desktop and select `presentations` repo
 1. Click the `Show in Finder` button
 1. Create folder with name of presentation (use this format: first-day) in the `presentations` folder
@@ -14,3 +20,12 @@
 1. Press `Commit to main` button
 1. Press `Push origin` button
 1. Click `View on GitHub` button and add to README.md by clicking the pencil icon and copying existing examples
+
+## Cleaning up speaker notes pages for better display online
+
+- Add page title (see example)
+- Change Heading 1 elements to Heading 2
+- Remove horizontal rules (`---`)
+- Use 1 line break between paragraphs and images
+- Remove line breaks between list items of the same list
+- Add descriptions of photos (inside the brackets, e.g., `![description of photo here]`)
