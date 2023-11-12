@@ -1,6 +1,4 @@
----
-title: Colgan Music Tech Presentations
---- 
+# Colgan Music Tech Presentations
 
 An archive of presentations for Mrs. Levy's music tech classes:
 
